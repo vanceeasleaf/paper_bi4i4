@@ -1,0 +1,4 @@
+声子谱->Bi4I4c/secondorder/banddos.png
+P3,gruneisen->Bi4I4computed.3/SHENG.2
+T->Bi4I4computed.3/SHENG.1
+KAPPA_q->Bi4I4computed.3/shengold.*
