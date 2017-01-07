@@ -2,3 +2,4 @@
 P3,gruneisen->Bi4I4computed.3/SHENG.2
 T->Bi4I4computed.3/SHENG.1
 KAPPA_q->Bi4I4computed.3/shengold.*
+lifetime->Bi4I4computed.3/shengold.10
