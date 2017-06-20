@@ -1,8 +1,8 @@
-TEX = pdflatex
+TEX = latex
 
 pdf : paper.tex
-	if [ ! -d "bin" ]; then mkdir bin ; fi;
-	cd  bin/;$(TEX) ../paper.tex
+	which python
+	python run.py
 	 
 .PHONY:clean
 
